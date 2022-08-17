@@ -6,7 +6,6 @@ from re import findall, match
 from requests import get
 from bs4 import BeautifulSoup as bs
 from time import strftime, localtime,sleep
-from mymath import minus
 
 import threading
 
