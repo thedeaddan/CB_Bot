@@ -13,10 +13,11 @@
 \* инструкция по созданию тг бота и получению токена по ссылке: https://clck.ru/dWnJq
 5. Запустите файл bot.py.
 
-## Список команд:
-- **/start** - начать общение с ботом
-![img.png](images/img1.png)
-- **/currency** - открывается inline-клавиатура с выбором предпочитаемой валюты
-![img.png](images/img2.png)
-- сообщение от бота после нажатия inline-кнопки:
-![img.png](images/img3.png)
+## Список команд:  
+- **/start** - начать общение с ботом  
+![image](https://user-images.githubusercontent.com/40400854/185115820-0f5648d0-57c4-43b2-b403-436f538358d2.png)  
+- **/go** - начать отслеживание  
+![image](https://user-images.githubusercontent.com/40400854/185115909-b4295fb9-2502-44d7-bc08-fbfbca12486c.png)  
+- **/info** - Получить сводку за последний день  
+![image](https://user-images.githubusercontent.com/40400854/185116204-0daa6b68-4caa-4808-900b-dbfb3d77d670.png)  
+- **/stop** - Отписаться от отслеживания   
