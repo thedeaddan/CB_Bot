@@ -21,3 +21,5 @@
 - **/info** - Получить сводку за последний день  
 ![image](https://user-images.githubusercontent.com/40400854/185116204-0daa6b68-4caa-4808-900b-dbfb3d77d670.png)  
 - **/stop** - Отписаться от отслеживания   
+![image](https://user-images.githubusercontent.com/40400854/185116292-392353e4-c425-4baa-addc-a08114ce83d1.png)
+
